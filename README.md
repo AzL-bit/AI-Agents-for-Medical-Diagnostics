@@ -107,43 +107,40 @@ However, **larger AI models** such as:
 ## Dev Notes & Precautions
 Before running the project, please make sure the following conditions are met to avoid common errors:
 
-1.  Environment File (.env)
-Ensure the .env file is named ibm-credentials.env.
+   1.  Environment File (.env)
+         Ensure the .env file is named ibm-credentials.env.
+         It must be located in the root directory of the project.
 
-It must be located in the root directory of the project.
-
-Use this structure (no quotes around values!):
-IBM_WATSON_API_KEY=your_api_key_here
-IBM_WATSON_URL=https://your_instance_url_here
+      Use this structure (no quotes around values!):
+      IBM_WATSON_API_KEY=your_api_key_here
+      IBM_WATSON_URL=https://your_instance_url_here
 
 
 2. Medical Report File
-Place your medical report (in .txt format) inside the Medical Reports/ folder.
+      Place your medical report (in .txt format) inside the Medical Reports/ folder.
+      The filename must match the one referenced in the script, or update the path in:
 
-The filename must match the one referenced in the script, or update the path in:
-
-medical_report_path = "Medical Reports/your_report.txt"
+         medical_report_path = "Medical Reports/your_report.txt"
 
 
 3. Required Folders
-Make sure there is a results/ folder to save output files.
-
-If not, the script will auto-create it, but it's good practice to include it.
+      Make sure there is a results/ folder to save output files.
+      If not, the script will auto-create it, but it's good practice to include it.
 
 4. Install Dependencies
-Use the following command to install required packages:
+      Use the following command to install required packages:
 
-pip install -r requirements.txt
+         pip install -r requirements.txt
 
-5. Avoid Common Errors
+6. Avoid Common Errors
 
     
-Issue	                                                 Solution
-- .env not                                             - found Double-check path and file extension. Use .env, not .txt.
-- API Key missing	                                     - Make sure values are set correctly inside .env.
-- Encoding errors on Windows	                         - Ensure report files are saved in UTF-8 encoding.
-- PDF not generating	                                  - Make sure reportlab is installed.
-- Wrong paths	                                        - Use raw strings (r"...") for Windows paths in Python scripts.
+         Issue	                                                 Solution
+         - .env not                                             - found Double-check path and file extension. Use .env, not .txt.
+         - API Key missing	                                     - Make sure values are set correctly inside .env.
+         - Encoding errors on Windows	                         - Ensure report files are saved in UTF-8 encoding.
+         - PDF not generating	                                  - Make sure reportlab is installed.
+         - Wrong paths	                                        - Use raw strings (r"...") for Windows paths in Python scripts.
 
 
 ## Acknowledgments
