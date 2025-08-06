@@ -136,7 +136,7 @@ Before running the project, please make sure the following conditions are met to
 
     
          Issue	                                                 Solution
-         - .env not                                             - found Double-check path and file extension. Use .env, not .txt.
+         - .env not found                                       - found Double-check path and file extension. Use .env, not .txt.
          - API Key missing	                                     - Make sure values are set correctly inside .env.
          - Encoding errors on Windows	                         - Ensure report files are saved in UTF-8 encoding.
          - PDF not generating	                                  - Make sure reportlab is installed.
