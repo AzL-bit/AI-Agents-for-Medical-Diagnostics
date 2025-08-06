@@ -14,12 +14,12 @@ The system features virtual agents (Cardiologist, Psychologist, Pulmonologist, W
 
 ## Features
 
-- ✅ **Real IBM Watson API integration**  
-- ✅ **Multithreaded analysis** by specialist agents  
-- ✅ Extracts and filters top clinical keywords  
-- ✅ Adds patient metadata (name, age, gender, date, etc.)  
-- ✅ Exports formatted summary reports in both **text** and **PDF**  
-- ✅ Fully customizable for other medical specializations
+-  Real IBM Watson API integration  
+-  Multithreaded analysis- by specialist agents  
+-  Extracts and filters top clinical keywords  
+-  Adds patient metadata (name, age, gender, date, etc.)  
+-  Exports formatted summary reports in both **text** and **PDF**  
+-  Fully customizable for other medical specializations
 
 ---
 
@@ -89,8 +89,7 @@ However, **larger AI models** such as:
 - **GPT-4** (with medical prompting or fine-tuning)
 - **MedPaLM 2** (by Google)
 - **ClinicalBERT**, **BioGPT**, etc.
-
-...can often generate **accurate diagnoses**, simulate clinical reasoning, and even suggest treatments when given the same report. These models may be integrated in future upgrades.
+can often generate **accurate diagnoses**, simulate clinical reasoning, and even suggest treatments when given the same report. These models may be integrated in future upgrades.
 
 ---
 
