@@ -1,0 +1,48 @@
+Patient ID: 678910
+Name: Super Mario
+Age: 19
+Gender: Male
+Date of Report: 2025-08-05
+
+Chief Complaint:
+The patient presents with ongoing episodes of shortness of breath, tightness in the chest, and dry cough, especially at night and early morning. He reports symptoms worsening with exercise and cold air. No chest pain or palpitations are noted.
+
+Medical History:
+Family History:
+Father has mild asthma; mother has seasonal allergies. No known history of heart disease.
+
+Personal Medical History:
+
+Asthma: Diagnosed at age 14, with occasional exacerbations triggered by dust and pollen.
+
+Seasonal Allergies: Uses over-the-counter antihistamines during spring months.
+
+Anxiety: Reports occasional anxiety during exams, no formal diagnosis.
+
+Lifestyle Factors:
+Non-smoker, no alcohol or caffeine intake. Engineering student, moderate physical activity. Lives in a dusty urban apartment.
+
+Medications:
+
+Salbutamol (as-needed inhaler)
+
+Cetirizine (10 mg during allergy season)
+
+Recent Lab and Diagnostic Results:
+Pulmonary Function Test (PFT): FEV1/FVC ratio at 68% (moderate obstruction)
+
+Peak Flow Meter: Variable readings, decreased in mornings
+
+Chest X-Ray: No evidence of infiltrates or cardiomegaly
+
+Allergy Panel: Positive for dust mites, mold, and tree pollen
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 118/76 mmHg, heart rate 88 bpm, respiratory rate 20, temp 36.9°C
+
+Cardiovascular Exam: Normal S1/S2, no murmurs
+
+Respiratory Exam: Mild wheezing in both lungs; no crackles or rales
+
+ENT: Mild nasal mucosal swelling consistent with allergic rhinitis
+

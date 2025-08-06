@@ -1,0 +1,18 @@
+Patient Name: Super Mario
+Patient ID: 678910
+Age: 19
+Gender: Male
+Date of Report: 2025-08-05
+
+
+### Final Diagnosis Report
+
+Based on the analysis of the medical report, the following clinical indicators are most relevant:
+
+- Vital Signs (relevance score: 0.74)
+- Pulmonary Function Test (relevance score: 0.64)
+- psychological components (relevance score: 0.63)
+- combination (relevance score: 0.57)
+- following clinical indicators (relevance score: 0.53)
+
+These keywords suggest a combination of physiological and psychological components that should be reviewed by a multidisciplinary medical team.
