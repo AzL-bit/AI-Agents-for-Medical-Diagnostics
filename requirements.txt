@@ -1,7 +1,4 @@
-langchain
-langchain-community 
-langchain-openai
-langchain-experimental
-python-dotenv
-langchain_ollama
-reportlab
+ibm-watson==6.0.0
+ibm-cloud-sdk-core==3.16.7
+python-dotenv==1.0.1
+reportlab==4.1.0
